@@ -57,13 +57,13 @@ function Home() {
   }, []);
 
   return (
-    <main className="container mx-auto max-width section md:flex justify-between items-center">
-      <div>
+    <main className="mx-auto max-width section md:flex justify-between items-center">
+      <div className="translate-y--full">
         <h1
           ref={h11}
           className="text-2xl text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold"
         >
-          Hi,👋<br></br>My Name is<br></br>
+          Hi,<br></br>My Name is<br></br>
         </h1>
         <h1
           ref={h12}

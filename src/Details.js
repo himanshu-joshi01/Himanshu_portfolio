@@ -79,22 +79,22 @@ export const eduDetails = [
     Position: "Master of Computer Application (MCA)",
     Company: `Lal bahadur shastri institue (LBSIMDS)`,
     Location: "Lucknow (U.P)",
-    Type: "Full Time",
-    Duration: "Aug 2022 - 2024",
+    Type: "REGULAR",
+    Duration: "2022 - 2024",
   },
   {
     Position: "Bachelor of Computer Application (BCA)",
     Company: `Babu banarasi das university (BBDU)`,
     Location: "Lucknow (U.P)",
     Type: "REGULAR",
-    Duration: "Aug 2016 - 2019",
+    Duration: "2016 - 2019",
   },
   {
     Position: "Higher Secondary Education (12th)",
     Company: `Kendriya Vidyalaya Kanpur cantt`,
     Location: "Kanpur (U.P)",
     Type: "CBSE",
-    Duration: "Aug 2014 - 2015",
+    Duration: "2014 - 2015",
   }, 
 ];
 
