@@ -123,8 +123,8 @@ export const projectDetails = [
     description: `This is sample project description random things are here in description This is sample
 project lorem ipsum generator for dummy content`,
     techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    previewLink: "https://atithi-devo-bhava.onrender.com",
+    githubLink: "https://github.com/himanshu-joshi01/Himanshu_portfolio",
   },
   {
     title: "Ecommerse website",
