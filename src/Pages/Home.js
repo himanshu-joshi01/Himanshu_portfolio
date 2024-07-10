@@ -77,8 +77,10 @@ function Home() {
         >
           {tagline}
         </h2>
+        <h2 className="pt-10">
+        <a href={require("./Resume/HimanshuJoshiResume.pdf")} download="himanshu.pdf" className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full">Download CV</a>
+        </h2>
       </div>
-      <a href="../Resume/HimanshuJoshiResume.pdf" download="himanshu.pdf" class="main-btn">Download CV</a>
       <div className="mt-5 md:mt-0">
         <img ref={myimageref} className="w-1/2 md:ml-auto" src={img} alt="Himanshu Joshi" />
       </div>
