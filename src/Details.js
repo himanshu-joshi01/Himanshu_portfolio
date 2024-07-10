@@ -18,7 +18,6 @@ import github from "./assets/techstack/github.png";
 import git from "./assets/techstack/git.png";
 import npm from "./assets/techstack/npm.png";
 import postman from "./assets/techstack/postman.png";
-import figma from "./assets/techstack/figma.png";
 // Porject Images
 import projectImage1 from "./assets/projects/project1.jpg";
 import projectImage2 from "./assets/projects/project2.jpg";
@@ -52,18 +51,18 @@ export const socialMediaUrl = {
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "MERN Full stack development",
+    Company: `Apna College`,
+    Location: "ONLINE",
+    Type: "E-Learning",
+    Duration: "Sep 2023 - jan 2024",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "JAVA Data Structure and Algorithm",
+    Company: `Apna College`,
+    Location: "ONLINE",
+    Type: "E-Learning",
+    Duration: "Jan 2024 - April 2024",
   },
   {
     Position: "Internship",
@@ -77,39 +76,26 @@ export const workDetails = [
 // Enter your Education Details here
 export const eduDetails = [
   {
-    Position: "Frontend Development",
-    Company: "Udemy, YouTube, Google, Medium",
-    Location: "Online",
-    Type: "Full Time",
-    Duration: "Jan 2022 - Present",
-  },
-  {
     Position: "Master of Computer Application (MCA)",
-    Company: `Lal bahadur shastri institue`,
-    Location: "Lucknow",
+    Company: `Lal bahadur shastri institue (LBSIMDS)`,
+    Location: "Lucknow (U.P)",
     Type: "Full Time",
     Duration: "Aug 2022 - 2024",
   },
   {
     Position: "Bachelor of Computer Application (BCA)",
-    Company: `Lal bahadur shastri institue`,
-    Location: "Lucknow",
-    Type: "Full Time",
+    Company: `Babu banarasi das university (BBDU)`,
+    Location: "Lucknow (U.P)",
+    Type: "REGULAR",
     Duration: "Aug 2016 - 2019",
   },
   {
-    Position: "Bachelor of Computer Application (BCA)",
-    Company: `Lal bahadur shastri institue`,
-    Location: "Lucknow",
-    Type: "Full Time",
-    Duration: "Aug 2016 - 2019",
-  }, {
-    Position: "Bachelor of Computer Application (BCA)",
-    Company: `Lal bahadur shastri institue`,
-    Location: "Lucknow",
-    Type: "Full Time",
-    Duration: "Aug 2016 - 2019",
-  },
+    Position: "Higher Secondary Education (12th)",
+    Company: `Kendriya Vidyalaya Kanpur cantt`,
+    Location: "Kanpur (U.P)",
+    Type: "CBSE",
+    Duration: "Aug 2014 - 2015",
+  }, 
 ];
 
 // Tech Stack and Tools
@@ -127,13 +113,12 @@ export const techStackDetails = {
   npm: npm,
   git: git,
   github: github,
-  figma: figma,
 };
 
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Project title 1",
+    title: "Atithi Devo Bhavo",
     image: projectImage1,
     description: `This is sample project description random things are here in description This is sample
 project lorem ipsum generator for dummy content`,
@@ -142,7 +127,7 @@ project lorem ipsum generator for dummy content`,
     githubLink: "https://github.com",
   },
   {
-    title: "Project title 2",
+    title: "Ecommerse website",
     image: projectImage2,
     description: `This is sample project description random things are here in description This is sample
 project lorem ipsum generator for dummy content`,
@@ -190,6 +175,6 @@ project lorem ipsum generator for dummy content`,
 
 // Enter your Contact Details here
 export const contactDetails = {
-  email: "hi@example.com",
-  phone: "+91 12345 67890",
+  email: "himanshujoshi3110@gmail.com",
+  Mobile: "+91 9369468394",
 };
