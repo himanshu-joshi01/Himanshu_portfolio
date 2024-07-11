@@ -36,7 +36,12 @@ export const personalDetails = {
   name: "Himanshu Joshi",
   tagline: "I build things for web",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `
+• I am Mern full stack web devloper
+• Knowledge Of MongoDB, Express.js, React.js, Node.js ,MVC Architecture.
+• Creative problem solver and specializing in resolving complex challenges to deliver efficient solutions.
+• I am confident that my academic background, coupled with my passion for web development, makes me a
+valuable asset to your team`,
 };
 
 // Enter your Social Media URLs here
