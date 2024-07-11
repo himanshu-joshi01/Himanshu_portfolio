@@ -36,12 +36,12 @@ export const personalDetails = {
   name: "Himanshu Joshi",
   tagline: "I build things for web",
   img: profile,
-  about: `
-• I am Mern full stack web devloper </br>
-• Knowledge Of MongoDB, Express.js, React.js, Node.js ,MVC Architecture.
-• Creative problem solver and specializing in resolving complex challenges to deliver efficient solutions.
-• I am confident that my academic background, coupled with my passion for web development, makes me a
-valuable asset to your team`,
+  p1:`• I am Mern full stack web devloper.`,
+  p2:`• Knowledge Of MongoDB, Express.js, React.js, Node.js ,MVC Architecture.`,
+  p3:`• Creative problem solver and specializing in resolving complex challenges to deliver efficient solutions.`,
+  p4: `• I am confident that my academic background, coupled with my passion for web development, makes me a
+valuable asset to your team`
+
 };
 
 // Enter your Social Media URLs here
