@@ -120,51 +120,34 @@ export const projectDetails = [
   {
     title: "Atithi Devo Bhavo",
     image: projectImage1,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `The website aimed to connect travelers with local hosts, promoting cultural exchange and authentic experiences.
+Key features included user profiles, Feeds, Host Management System, Responsive Design, Social Sharing.`,
+    techstack: "HTML, CSS, JavaScript, Express Js, MongoDB, MAP Api, Paasport Js ",
     previewLink: "https://atithi-devo-bhava.onrender.com",
-    githubLink: "https://github.com/himanshu-joshi01/Himanshu_portfolio",
+    githubLink: "https://github.com/himanshu-joshi01/Atithi-Devo-Bhava",
   },
   {
-    title: "Ecommerse website",
+    title: "Shopcart",
     image: projectImage2,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `Developed a fully functional E-commerce website, ShopCart. The website allows users to browse and purchase
+products, manage their accounts, track orders and many other functionality .`,
+    techstack: "HTML, CSS, JavaSCript, ReactJS, Redux, Material UI",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/himanshu-joshi01/Shopcart",
   },
   {
-    title: "Project title 3",
+    title: "DSA DRIVE",
     image: projectImage3,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `Developed a Data Structures and Algorithms (DSA) Tracker, a web application to help users track and improve
+their coding skills. The platform allows users to practice and solve problems, track their progress, and compete
+with others.`,
+    techstack: "HTML, CSS, JavaScript, React Js",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/himanshu-joshi01/DSA_Tracker",
   },
   {
-    title: "Project title 4",
+    title: "Weather Web App",
     image: projectImage4,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 5",
-    image: projectImage5,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 6",
-    image: projectImage6,
     description: `This is sample project description random things are here in description This is sample
 project lorem ipsum generator for dummy content`,
     techstack: "HTML/CSS, JavaScript",
