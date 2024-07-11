@@ -38,8 +38,8 @@ export const personalDetails = {
   img: profile,
   about: `
 • I am Mern full stack web devloper </br>
-• Knowledge Of MongoDB, Express.js, React.js, Node.js ,MVC Architecture. </br>
-• Creative problem solver and specializing in resolving complex challenges to deliver efficient solutions. </br>
+• Knowledge Of MongoDB, Express.js, React.js, Node.js ,MVC Architecture.
+• Creative problem solver and specializing in resolving complex challenges to deliver efficient solutions.
 • I am confident that my academic background, coupled with my passion for web development, makes me a
 valuable asset to your team`,
 };
