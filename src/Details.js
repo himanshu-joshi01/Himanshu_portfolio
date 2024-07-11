@@ -68,13 +68,7 @@ export const workDetails = [
     Type: "E-Learning",
     Duration: "Jan 2024 - April 2024",
   },
-  {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
-  },
+
 ];
 
 // Enter your Education Details here
@@ -152,9 +146,8 @@ with others.`,
   {
     title: "Weather Web App",
     image: projectImage4,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `A weather web app is a web-based application that provides current and forecasted weather conditions for a specific location or region`,
+    techstack: "HTML,CSS, JavaScript, React Js, weather api, tailwind",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
   },

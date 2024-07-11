@@ -35,7 +35,7 @@ function About() {
 
       <section>
         <h1 className="text-2xl pt-10 text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
-          Work Experience
+          Certifications
         </h1>
         {React.Children.toArray(
           workDetails.map(({ Position, Company, Location, Type, Duration }) => (
