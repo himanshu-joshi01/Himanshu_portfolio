@@ -1,9 +1,7 @@
 # React Developer Portfolio template
-#### Live Demo https://react-portfolio-v1.netlify.app/
-#### Figma Design https://www.figma.com/community/file/1116246660507537002
-### Preview ( Dark Mode )
+#### Live Demo https://himanshujoshi.netlify.app/
 
-<img src="/preview.gif" alt="preview" width="600px" />
+### Preview ( Dark Mode )
 
 ## Follow Below instructions to add your deatils in the portfolio.
 
@@ -14,7 +12,7 @@
 ```javascript
 / Enter your Personal Details here
 export const personalDetails = {
-  name: "Pavan MG",
+  name: "Himanshu Joshi",
   tagline: "I build things for web",
   img: profile,
   about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.
