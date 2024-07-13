@@ -141,7 +141,7 @@ their coding skills. The platform allows users to practice and solve problems, t
 with others.`,
     techstack: "HTML, CSS, JavaScript, React Js",
     previewLink: "https://google.com",
-    githubLink: "https://github.com/himanshu-joshi01/DSA_Tracker",
+    githubLink: "https://github.com/himanshu-joshi01/DSA_DRIVE",
   },
   {
     title: "Weather Web App",
