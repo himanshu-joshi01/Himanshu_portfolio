@@ -78,7 +78,7 @@ function Home() {
           {tagline}
         </h2>
         <h2 className="pt-10">
-        <a href={require("./Resume/himanshujoshi2024.pdf")} download="himanshujoshi.pdf" className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full">Download CV</a>
+        <a href={require("./Resume/himanshujoshi.pdf")} download="himanshujoshi.pdf" className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full">Download CV</a>
         </h2>
       </div>
       <div className="mt-5 md:mt-0">
