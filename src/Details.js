@@ -23,6 +23,7 @@ import projectImage1 from "./assets/projects/project1.jpg";
 import projectImage2 from "./assets/projects/project2.jpg";
 import projectImage3 from "./assets/projects/project3.jpg";
 import projectImage4 from "./assets/projects/project4.jpg";
+import LinkedInPlus from "./assets/projects/LinkedInPlus.jpg";
 
 
 // Logos
@@ -124,6 +125,14 @@ Key features included user profiles, Feeds, Host Management System, Responsive D
     previewLink: "https://atithi-devo-bhava.onrender.com",
     githubLink: "https://github.com/himanshu-joshi01/Atithi-Devo-Bhava",
   },
+{
+  title: "LinkedIn_Plus",
+  image: LinkedInPlus,
+  description: `LinkedIn is a business and employment-focused social media platform that operates through websites and mobile apps.`,
+  techstack: "HTML, Tailwind, JavaScript, React Js , Axios, Netlify",
+  previewLink: "https://linkedin-plus.netlify.app",
+  githubLink: "https://github.com/himanshu-joshi01/LinkedIn_Plus",
+},
   {
     title: "Shopcart",
     image: projectImage2,
